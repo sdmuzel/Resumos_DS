@@ -1,4 +1,4 @@
-# Data Science Geral 
+# Resumos de Data Science
 
 Um repositório para armazenar os resumos de conteúdos que tenho visto em diversos cursos, sobre Data Science
 
